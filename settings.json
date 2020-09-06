@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\matt_\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+
+    "code-runner.executorMap": {
+        "python": "$pythonPath $fullFileName"
+     },
+     "code-runner.clearPreviousOutput": true,
+     "code-runner.saveAllFilesBeforeRun": true
+}
